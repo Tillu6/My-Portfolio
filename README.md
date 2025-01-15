@@ -3,7 +3,8 @@
   <a href="https://sakethreddy.vercel.app/" target="_blank">sakethreddy.tech</a>
 </h2>
 <div align="center">
-  <img alt="Demo" ![image](https://github.com/user-attachments/assets/1513a81f-cb50-4a78-9b43-945f2e8b0a1e)
+  <img alt=![image](https://github.com/user-attachments/assets/8cee9871-edd7-479b-a171-11a4e71cb463)
+
 
 " />
 </div>
